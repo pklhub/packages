@@ -10,7 +10,7 @@
     "k8s": {
       "uri": "package://pkg.pkl-lang.org/pkl-k8s/k8s@1.1.1",
       "checksums": {
-        "sha256": "e76e8edef59494a77279e449aa13c5d1998d6cc4a3bc4be5e96cb2df126e201a"
+        "sha256": "6502212ece9d6397f3b84f80ce69ccaa8f0899dacbe7bb6107c2c8e52f9cdb69"
       }
     }
   },
