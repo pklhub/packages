@@ -1,0 +1,21 @@
+{
+  "name": "spring-3.3.0",
+  "packageUri": "package://pkg.hpkl.io/hpkl-frameworks/spring-3.3.0@0.1.0",
+  "version": "0.1.0",
+  "packageZipUrl": "https://github.com/hpklio/hpkl-frameworks/releases/download/v0.1.0/spring-3.3.0@0.1.0.zip",
+  "packageZipChecksums": {
+    "sha256": "b1ba8747ecf965cf2876c9cbd748c7170965a9b9c4ea071e5f460cb2b291a6df"
+  },
+  "dependencies": {
+    "hpkl-k8s-app": {
+      "uri": "package://pkg.hpkl.io/hpkl-k8s-app@0.19.0",
+      "checksums": {
+        "sha256": "6f77cf3ac2de4669415cb5ad0f556e2a43a6d8931b2f7f3d5836be844255ba5a"
+      }
+    }
+  },
+  "sourceCodeUrlScheme": "https://github.com/hpklio/hpkl-frameworks/blob/0.1.0/generated-package%{path}#%{line}-%{endLine}",
+  "sourceCode": "https://github.com/hpklio/hpkl-frameworks",
+  "license": "Apache-2.0",
+  "authors": []
+}
