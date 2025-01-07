@@ -1,0 +1,21 @@
+{
+  "name": "spring-grpc-server-2.13.1",
+  "packageUri": "package://pkg.hpkl.io/hpkl-frameworks/spring-grpc-server-2.13.1@0.2.0",
+  "version": "0.2.0",
+  "packageZipUrl": "https://github.com/hpklio/hpkl-frameworks/releases/download/v0.2.0/spring-grpc-server-2.13.1@0.2.0.zip",
+  "packageZipChecksums": {
+    "sha256": "b5f2aaebf09c8d0c831bea1c413682a29e9a205cbc6eee5a1e6d51d028f1938e"
+  },
+  "dependencies": {
+    "hpkl-k8s-app": {
+      "uri": "package://pkg.hpkl.io/hpkl-k8s-app@0.19.0",
+      "checksums": {
+        "sha256": "6f77cf3ac2de4669415cb5ad0f556e2a43a6d8931b2f7f3d5836be844255ba5a"
+      }
+    }
+  },
+  "sourceCodeUrlScheme": "https://github.com/hpklio/hpkl-frameworks/blob/0.2.0/generated-package%{path}#%{line}-%{endLine}",
+  "sourceCode": "https://github.com/hpklio/hpkl-frameworks",
+  "license": "Apache-2.0",
+  "authors": []
+}
