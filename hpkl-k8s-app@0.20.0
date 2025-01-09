@@ -1,0 +1,18 @@
+{
+  "name": "hpkl-k8s-app",
+  "packageUri": "package://pkg.hpkl.io/hpkl-k8s-app@0.20.0",
+  "version": "0.20.0",
+  "packageZipUrl": "https://github.com/hpklio/hpkl-k8s-app/releases/download/v0.20.0/hpkl-k8s-app@0.20.0.zip",
+  "packageZipChecksums": {
+    "sha256": "17486e2f71eff071b90304c8406256751dffeaca3c04eca142f0e68aeb89a0ab"
+  },
+  "dependencies": {
+    "k8s": {
+      "uri": "package://pkg.pkl-lang.org/pkl-k8s/k8s@1.1.1",
+      "checksums": {
+        "sha256": "8c3d369d9533312c41b57cd2405484fc3430716a9fa1ec1caa0745f2fd876612"
+      }
+    }
+  },
+  "authors": []
+}
