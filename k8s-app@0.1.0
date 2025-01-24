@@ -1,0 +1,18 @@
+{
+  "name": "k8s-app",
+  "packageUri": "package://pklhub.io/k8s-app@0.1.0",
+  "version": "0.1.0",
+  "packageZipUrl": "https://github.com/pklhub/k8s-app/releases/download/v0.1.0/k8s-app@0.1.0.zip",
+  "packageZipChecksums": {
+    "sha256": "0ebf108672bf21ba3b60574aacabbdb36e3f80f87dd88f6eacd92952aee3d0d7"
+  },
+  "dependencies": {
+    "k8s": {
+      "uri": "package://pkg.pkl-lang.org/pkl-k8s/k8s@1.1.1",
+      "checksums": {
+        "sha256": "8c3d369d9533312c41b57cd2405484fc3430716a9fa1ec1caa0745f2fd876612"
+      }
+    }
+  },
+  "authors": []
+}
